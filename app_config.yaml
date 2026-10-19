@@ -1,0 +1,16 @@
+app:
+  name: سَكينة
+  slug: sakeena
+  android_application_id: com.sakeena.devotions
+  ios_bundle_id: com.sakeena.devotions
+  locale: ar
+  direction: rtl
+  min_android_sdk: 24
+  target_android_sdk: 36
+branding:
+  icon: assets/branding/icon.svg
+  splash: assets/branding/splash.svg
+runtime:
+  local_first: true
+  network_required_for_core: false
+  backend_sync: opt_in
