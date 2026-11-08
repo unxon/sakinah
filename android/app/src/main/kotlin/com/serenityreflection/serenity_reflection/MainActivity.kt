@@ -1,4 +1,4 @@
-package com.sakeena.sakeena
+package com.serenityreflection.serenity_reflection
 
 import io.flutter.embedding.android.FlutterActivity
 
